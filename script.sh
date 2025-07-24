@@ -1,4 +1,5 @@
 #!/bin/sh
+export LANG=en_US.UTF-8
 
 
 NAMES="박우람 홍승근 양윤혁 정진범 백성윤 홍성민 TEMP"
@@ -6,9 +7,9 @@ NAMES="박우람 홍승근 양윤혁 정진범 백성윤 홍성민 TEMP"
 for chapter in {1..9}; do
   if (( $chapter < 10 ))
   then
-    folder_name=$chapter주차
+    folder_name=${chapter}주차
   else
-    folder_name=$chapter주차
+    folder_name=${chapter}주차
   fi
 
   mkdir -p ./$folder_name
