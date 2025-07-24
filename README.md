@@ -4,11 +4,11 @@
 
 ## ✔️ 인원
 | 박우람 | 정진범 | 양윤혁 | 홍승근 | 백성윤 | 홍성민 |
-| ---| --- | --- | --- | ---- | ---- |
-| [gzgzg2](https://github.com/gzgzg2)|[ParkSungGyu1](https://github.com/ParkSungGyu1)|[yangyunhyeuk](https://github.com/yangyunhyeuk) |[hongseungkeun](https://github.com/orgs/book-kitty/people/hongseungkeun) |[newbiebsy](https://github.com/newbiebsy) |
+| ---| --- | --- | --- | ---- | ---- | 
+| [gzgzg2](https://github.com/gzgzg2)|[ParkSungGyu1](https://github.com/ParkSungGyu1)|[yangyunhyeuk](https://github.com/yangyunhyeuk) |[hongseungkeun](https://github.com/orgs/book-kitty/people/hongseungkeun) |[newbiebsy](https://github.com/newbiebsy) | [hhpp1205](https://github.com/hhpp1205)|
 ## ✔️ 기간
 - 2025.09.10(수) 22:00 OT
-- 2023.09.10(수) ~ 2025.10.30(목)
+- 2025.09.10(수) ~ 2025.11.15(목)
 
 ## ✔️ 규칙
 - 시스템 설계 문제 미제출 or 20분 지각 or 미참석 시 벌금 **5000원** 
